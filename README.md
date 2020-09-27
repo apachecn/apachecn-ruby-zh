@@ -13,6 +13,16 @@
 * [ApacheCN 面试求职交流群 724187166](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 * [ApacheCN 学习资源](http://www.apachecn.org/)
 
+## 下载
+
+### NPM
+
+```
+npm install -g iloveruby-zh
+iloveruby-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 贡献指南
 
 该项目尚未校对，如果你想要直接校对，请提交 Pull Request，如果你希望组织校对活动，请联系我们（见下文）。
