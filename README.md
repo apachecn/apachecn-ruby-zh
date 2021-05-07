@@ -13,6 +13,7 @@
 
 ## 目录
 
++   [我爱 Ruby](docs/iloveruby/SUMMARY.md)
 
 ## 下载
 
